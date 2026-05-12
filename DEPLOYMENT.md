@@ -62,8 +62,8 @@ docker compose version
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/feedsystem_video_go.git
-   cd feedsystem_video_go
+   git clone https://github.com/raaaaap/short-video-feed-system.git
+   cd short-video-feed-system
    ```
 
 2. **一键启动所有服务**
