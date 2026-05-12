@@ -206,8 +206,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/LeoninCS/feedsystem_video_go.git
-cd feedsystem_video_go
+git clone https://github.com/raaaaap/short-video-feed-system.git
+cd short-video-feed-system
 
 # 一键启动所有服务
 docker compose up -d --build
@@ -416,20 +416,6 @@ feedsystem_video_go/
 ## 许可证
 
 本项目采用 [MIT License](LICENSE) 开源协议。
-
----
-
-## 联系方式
-
-- 项目主页：https://github.com/LeoninCS/feedsystem_video_go
-- 问题反馈：https://github.com/LeoninCS/feedsystem_video_go/issues
-- 项目演示：https://www.bilibili.com/video/BV1Dti7B9E6Y
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=LeoninCS/feedsystem_video_go&type=Date)](https://www.star-history.com/#LeoninCS/feedsystem_video_go&Date)
 
 ---
 
